@@ -63,17 +63,17 @@ body {
     #btnB {
         font-size: 20px;
         position:absolute; top:380px; left:38%; width:25%; height:60px;
-        background-color: blue;
+        background-color:white;
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 20px;
         position:absolute; top:380px; left:64%; width:25%; height:60px; 
         background-color: yellowgreen;
     }
 
     #btnD {
-        font-size: 10px;
+        font-size: 20px;
         position:absolute; top:380px; left:90%; width:25%; height:60px; 
         background-color:orange;
     }
