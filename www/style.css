@@ -89,3 +89,29 @@ body {
     }
     
     input[type=number] {text-align: right;}
+
+    #btnPreset1 {
+        font-size: 18px;
+        position:absolute; top:520px; left:2%; width:25%; height:60px;
+        background-color:burlywood; 
+        color: green;
+    }
+
+    #btnPreset3 {
+        font-size: 18px;
+        position:absolute; top:520px; left:35%; width:25%; height:60px;
+        background-color:burlywood;
+        color: green;
+    }
+
+    #btnPreset5 {
+        font-size: 18px;
+        position:absolute; top:520px; left:70%; width:25%; height:60px;
+        background-color:burlywood; 
+        color: green;
+    }
+
+
+
+
+    
