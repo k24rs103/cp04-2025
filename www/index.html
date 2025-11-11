@@ -210,7 +210,16 @@
         $("#remain").html("残り時間： " + period);
         
     }
-    
+
+    // ButtonDがクリックされた時の処理
+    function btnDClick(e){
+    if (!active && rest > 0) {
+        startTime = new Date() - (etime * 1000);
+        startTime = new Date(startTime);
+        active = true;
+    }
+}
+
  
     // 繰り返し実行する処理
     function timer(){  
